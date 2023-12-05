@@ -1,0 +1,1 @@
+//zadanie 2 nie jest do zrobienia przez zdrową psychinie i umysłowo osobę
