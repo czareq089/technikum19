@@ -1,0 +1,14 @@
+C:\Users\czareq089\RiderProjects\Listy\bin\Debug\net8.0\Listy.exe
+C:\Users\czareq089\RiderProjects\Listy\bin\Debug\net8.0\Listy.deps.json
+C:\Users\czareq089\RiderProjects\Listy\bin\Debug\net8.0\Listy.runtimeconfig.json
+C:\Users\czareq089\RiderProjects\Listy\bin\Debug\net8.0\Listy.dll
+C:\Users\czareq089\RiderProjects\Listy\bin\Debug\net8.0\Listy.pdb
+C:\Users\czareq089\RiderProjects\Listy\obj\Debug\net8.0\Listy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czareq089\RiderProjects\Listy\obj\Debug\net8.0\Listy.AssemblyInfoInputs.cache
+C:\Users\czareq089\RiderProjects\Listy\obj\Debug\net8.0\Listy.AssemblyInfo.cs
+C:\Users\czareq089\RiderProjects\Listy\obj\Debug\net8.0\Listy.csproj.CoreCompileInputs.cache
+C:\Users\czareq089\RiderProjects\Listy\obj\Debug\net8.0\Listy.dll
+C:\Users\czareq089\RiderProjects\Listy\obj\Debug\net8.0\refint\Listy.dll
+C:\Users\czareq089\RiderProjects\Listy\obj\Debug\net8.0\Listy.pdb
+C:\Users\czareq089\RiderProjects\Listy\obj\Debug\net8.0\Listy.genruntimeconfig.cache
+C:\Users\czareq089\RiderProjects\Listy\obj\Debug\net8.0\ref\Listy.dll
