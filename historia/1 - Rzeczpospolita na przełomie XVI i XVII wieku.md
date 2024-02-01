@@ -1,6 +1,6 @@
-##Rzeczpospolita na przełomie XVI i XVII wieku
+## Rzeczpospolita na przełomie XVI i XVII wieku
 
-####1. Podwójna elekcja:
+#### 1. Podwójna elekcja:
 
 **regent** - osoba sprawująca władzę w imieniu króla
 
@@ -8,17 +8,17 @@
 
 
 
-#####Przebieg wolnej elekcji:
+##### Przebieg wolnej elekcji:
 
 Cesarz ***Maksymilian II Habsburg*** był faworytem magnaterii polskiej, jednak nie został wybrany, ponieważ przywódca szlachty ***Jan Zamojski*** nie chciał, aby Rzeczpospolita była zależna od Habsburgów. Z tego powodu zaproponował przekazanie tronu siostrze nieżyjącego ***Zygmunta Augusta*** - ***Annie Jagiellonce***, jej mężem został ***Stefan Batory***. Jednak *Maksymilian II Habsburg* nie zrezygnował z tronu, więc *Stefan Batory* musiał walczyć o koronę. *Maksymilian II Habsburg* zmarł w 1576 roku, a *Stefan Batory* został królem Polski.
 
-####2. Polityka *Stefana Batorego*:
+#### 2. Polityka *Stefana Batorego*:
 
 *Stefan Batory* już od samego początku miał problemy z Gdańskiem, który był za wygraną *Maksymiliana II Habsburga* mając nadzieję na cofnięcie postanowień o ograniczeniu kompetencji rady miasta. *Stefan Batory* w 1577 roku zaatakował Gdańsk w ***bitwie pod Lubiszewem***. Ostatecznie doszło do kompromisu - Gdańsk uznał władzę *Batorego* i zobowiązał się zapłacić kontrybucję.
 
 **kontrybucja** - podatek wojenny
 
-####3. Wojna z Moskwą:
+#### 3. Wojna z Moskwą:
 
 W 1577 roku do Inflant wkroczyła armia moskiewska domagając się zwrotu utraconych ziem, w wyniku tej inwazji rozegrały się następujące bitwy:
 
@@ -36,7 +36,7 @@ W 1577 roku do Inflant wkroczyła armia moskiewska domagając się zwrotu utraco
 
 **Trybunał Koronny i Litewski** - sądy najwyższej instancji w Rzeczpospolitej, do których szlachta mogła zwracać się w przypadku naruszenia jej praw.
 
-####4. Król i kanclerz:
+#### 4. Król i kanclerz:
 
 Po wojnie z Moskwą *Stefan Batory* zaczął ograniczać władzę magnaterii, a w 1581 roku wprowadził urząd ***kanclerza wielkiego koronnego***, który miał kontrolować działania magnaterii. Pierwszym kanclerzem został *Jan Zamojski*.
 
@@ -44,11 +44,11 @@ Do wzrostu niepokojów wewnętrznych doszło w sprawie Samuela Zborowskiego, kt�
 
 **banicja** - wygnanie z kraju, pozbawienie praw obywatelskich - jeśli ktoś wrócił z banicji to mógł być zabity bezkarnie.
 
-####5. Trzecie bezkrólewie:
+#### 5. Trzecie bezkrólewie:
 
 Po śmierci *Stefana Batorego* rozpoczęto przygotowania do trzeciej wolnej elekcji. 
 
-#####Kandydaci do tronu:
+##### Kandydaci do tronu:
 
 |        Kandydat        | Pochodzenie |                    Poparcie                    |
 | :--------------------: | :---------: | :--------------------------------------------: |
@@ -57,11 +57,11 @@ Po śmierci *Stefana Batorego* rozpoczęto przygotowania do trzeciej wolnej elek
 
 \* - stronnictwo szlacheckie - grupa szlachty, skupiona wokół rodziny Samuela Zborowskiego.
 
-#####Zwycięstwo i panowanie *Zygmunta III Wazy*:
+##### Zwycięstwo i panowanie *Zygmunta III Wazy*:
 
 Pierwsze lata rządów Zygmunta III Wazy upłynęły pod znakiem konfliktu z *Janem Zamojskim* - nie akceptował on ogromnych wpływów tego polityka. *Zygmunt III* dążył też do porozumienia z Habsburgami, był on także gotów oddać tron Rzeczpospolitej w zamian za tron szwedzki. 
 
-####6. Rokosz Zebrzydowskiego:
+#### 6. Rokosz Zebrzydowskiego:
 
 **rokosz** - zbrojne wystąpienie szlachty przeciwko królowi
 
