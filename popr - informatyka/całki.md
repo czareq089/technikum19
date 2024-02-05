@@ -13,6 +13,12 @@ F(3) = 90 / 6 - 9 / 6 = 81 / 6 = 27 / 2
 
 F(6) - F(3)
 
+4
+  S 1/x^3 + 2x - 1 dx //do obliczenia z kartkówki
+1
+
+
+
 ### Całki - python algorytm
 
 ```python
