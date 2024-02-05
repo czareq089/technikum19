@@ -1,0 +1,15 @@
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Klasy\Klasy\bin\Debug\net8.0\Klasy.exe
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Klasy\Klasy\bin\Debug\net8.0\Klasy.deps.json
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Klasy\Klasy\bin\Debug\net8.0\Klasy.runtimeconfig.json
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Klasy\Klasy\bin\Debug\net8.0\Klasy.dll
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Klasy\Klasy\bin\Debug\net8.0\Klasy.pdb
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Klasy\Klasy\obj\Debug\net8.0\Klasy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Klasy\Klasy\obj\Debug\net8.0\Klasy.AssemblyInfoInputs.cache
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Klasy\Klasy\obj\Debug\net8.0\Klasy.AssemblyInfo.cs
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Klasy\Klasy\obj\Debug\net8.0\Klasy.csproj.CoreCompileInputs.cache
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Klasy\Klasy\obj\Debug\net8.0\Klasy.sourcelink.json
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Klasy\Klasy\obj\Debug\net8.0\Klasy.dll
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Klasy\Klasy\obj\Debug\net8.0\refint\Klasy.dll
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Klasy\Klasy\obj\Debug\net8.0\Klasy.pdb
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Klasy\Klasy\obj\Debug\net8.0\Klasy.genruntimeconfig.cache
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Klasy\Klasy\obj\Debug\net8.0\ref\Klasy.dll
