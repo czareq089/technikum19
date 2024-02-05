@@ -15,7 +15,7 @@
 
 **a) W cząsteczce związku chemicznego suma stopni utlenienia wszystkich pierwiastków wynosi 0.**
 
-$ HNO_3 $ - suma wynosi zero, ponieważ $ H^IN^VO_3^{-II} $.
+$HNO_3$ - suma wynosi zero, ponieważ $H^IN^VO_3^{-II}$.
 
 **b) Stopień utleniania można ustalić na podstawie konfiguracji elektronowej atomu pierwiastka i jego elektroujemności**
 
@@ -27,11 +27,11 @@ $ HNO_3 $ - suma wynosi zero, ponieważ $ H^IN^VO_3^{-II} $.
 
 **a) przykład pierwszy:**
 
-- $ Ca^0 + Cl_2^0 \rightarrow Ca^{II}Cl_2^{-I} $
+- $Ca^0 + Cl_2^0 \rightarrow Ca^{II}Cl_2^{-I}$
 
 Atom wapnia oddaje elektrony, czyli zwiększa swój stopień utleniania, zatem jest reduktorem.
 
-- $ Ca^0 \rightarrow Ca^{II} + 2e^- $
+- $Ca^0 \rightarrow Ca^{II} + 2e^-$
 
 
 Atom chloru przyjmuje elektrony, czyli zmniejsza swój stopień utleniania, zatem jest utleniaczem.
@@ -41,15 +41,15 @@ Atom chloru przyjmuje elektrony, czyli zmniejsza swój stopień utleniania, zate
 ---
 **b) przykład drugi:**
 
-$ Zn^0 + 2H^ICl^{-I} \rightarrow Zn^{II}Cl_2^{-I} + H_2^0 $
+$Zn^0 + 2H^ICl^{-I} \rightarrow Zn^{II}Cl_2^{-I} + H_2^0$
 
 Atom cynku oddaje elektrony, czyli zwiększa swój stopień utleniania, zatem jest reduktorem.
 
-- $ Zn^0 \rightarrow Zn^{II} + 2e^- $
+- $Zn^0 \rightarrow Zn^{II} + 2e^-$
 
 Atom chloru przyjmuje elektrony, czyli zmniejsza swój stopień utleniania, zatem jest utleniaczem.
 
-- $ 2H^ICl^{-I} + 2e^- \rightarrow H_2^0 + 2Cl^{-I} $
+- $2H^ICl^{-I} + 2e^- \rightarrow H_2^0 + 2Cl^{-I}$
 
 
 ### 4. Szereg aktywności metali
@@ -58,7 +58,7 @@ Atom chloru przyjmuje elektrony, czyli zmniejsza swój stopień utleniania, zate
 <center>
 
 ***Zasada:***
-$ \downarrow $
+$\downarrow$
 ***im wyższe w szeregu aktywności metalu, tym łatwiej oddaje on elektrony***
 ||
 ***im niższe w szeregu aktywności metalu, tym łatwiej przyjmuje on elektrony***
