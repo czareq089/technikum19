@@ -1,4 +1,4 @@
-###Obliczanie całek - przykład
+### Obliczanie całek - przykład
 6
   S  -x/3 + 5 dx ---> dx (+/-) x^n+1/x+n  ---> 5x - x^2/6
 3
