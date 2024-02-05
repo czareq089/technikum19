@@ -12,3 +12,35 @@ F(3) = 90 / 6 - 9 / 6 = 81 / 6 = 27 / 2
 48 / 2 - 27 / 2 = 21 / 2
 
 F(6) - F(3)
+
+### Całki - python algorytm
+
+```python
+def f(x):
+    return -x / 3 + 5
+
+def calka_poczatek(a, b, n)
+    dx = (b - a) / n
+    x = a
+    suma = 0
+    for i in range(n):
+      suma += f(a + i * dx) * dx
+    return suma
+
+def calka_srodek(a, b, n)
+    dx = (b - a) / n
+    x = a
+    suma = 0
+    for i in range(n):
+      suma += f(a + i * dx + dx / 2) * dx
+    return suma
+  
+def calka_koniec(a, b, n){
+    dx = (b - a) / n
+    x = a
+    suma = 0
+    for i in range(n):
+      suma += f(a + i * dx + dx) * dx
+    return suma
+}
+```
