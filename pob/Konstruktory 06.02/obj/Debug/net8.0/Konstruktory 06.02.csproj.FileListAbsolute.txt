@@ -1,0 +1,15 @@
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Konstruktory 06.02\bin\Debug\net8.0\Konstruktory 06.02.exe
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Konstruktory 06.02\bin\Debug\net8.0\Konstruktory 06.02.deps.json
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Konstruktory 06.02\bin\Debug\net8.0\Konstruktory 06.02.runtimeconfig.json
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Konstruktory 06.02\bin\Debug\net8.0\Konstruktory 06.02.dll
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Konstruktory 06.02\bin\Debug\net8.0\Konstruktory 06.02.pdb
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Konstruktory 06.02\obj\Debug\net8.0\Konstruktory 06.02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Konstruktory 06.02\obj\Debug\net8.0\Konstruktory 06.02.AssemblyInfoInputs.cache
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Konstruktory 06.02\obj\Debug\net8.0\Konstruktory 06.02.AssemblyInfo.cs
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Konstruktory 06.02\obj\Debug\net8.0\Konstruktory 06.02.csproj.CoreCompileInputs.cache
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Konstruktory 06.02\obj\Debug\net8.0\Konstruktory 06.02.sourcelink.json
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Konstruktory 06.02\obj\Debug\net8.0\Konstruktory 06.02.dll
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Konstruktory 06.02\obj\Debug\net8.0\refint\Konstruktory 06.02.dll
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Konstruktory 06.02\obj\Debug\net8.0\Konstruktory 06.02.pdb
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Konstruktory 06.02\obj\Debug\net8.0\Konstruktory 06.02.genruntimeconfig.cache
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Konstruktory 06.02\obj\Debug\net8.0\ref\Konstruktory 06.02.dll
