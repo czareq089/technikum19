@@ -1,0 +1,15 @@
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice zadanie\bin\Debug\net8.0\Tablice zadanie.exe
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice zadanie\bin\Debug\net8.0\Tablice zadanie.deps.json
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice zadanie\bin\Debug\net8.0\Tablice zadanie.runtimeconfig.json
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice zadanie\bin\Debug\net8.0\Tablice zadanie.dll
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice zadanie\bin\Debug\net8.0\Tablice zadanie.pdb
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice zadanie\obj\Debug\net8.0\Tablice zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice zadanie\obj\Debug\net8.0\Tablice zadanie.AssemblyInfoInputs.cache
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice zadanie\obj\Debug\net8.0\Tablice zadanie.AssemblyInfo.cs
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice zadanie\obj\Debug\net8.0\Tablice zadanie.csproj.CoreCompileInputs.cache
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice zadanie\obj\Debug\net8.0\Tablice zadanie.sourcelink.json
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice zadanie\obj\Debug\net8.0\Tablice zadanie.dll
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice zadanie\obj\Debug\net8.0\refint\Tablice zadanie.dll
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice zadanie\obj\Debug\net8.0\Tablice zadanie.pdb
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice zadanie\obj\Debug\net8.0\Tablice zadanie.genruntimeconfig.cache
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice zadanie\obj\Debug\net8.0\ref\Tablice zadanie.dll

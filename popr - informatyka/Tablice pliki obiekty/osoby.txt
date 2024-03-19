@@ -1,0 +1,5 @@
+Bartosz;Kowalski;31;
+Cezary;Kotlarski;15;
+Jakub;Jablonski;17;
+Andrzej;Szulta;120;
+Krzysztof;Kowalski;31;

@@ -1,0 +1,15 @@
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice pliki obiekty\obj\Debug\net8.0\Tablice pliki obiekty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice pliki obiekty\obj\Debug\net8.0\Tablice pliki obiekty.AssemblyInfoInputs.cache
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice pliki obiekty\obj\Debug\net8.0\Tablice pliki obiekty.AssemblyInfo.cs
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice pliki obiekty\obj\Debug\net8.0\Tablice pliki obiekty.csproj.CoreCompileInputs.cache
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice pliki obiekty\obj\Debug\net8.0\Tablice pliki obiekty.sourcelink.json
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice pliki obiekty\bin\Debug\net8.0\Tablice pliki obiekty.exe
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice pliki obiekty\bin\Debug\net8.0\Tablice pliki obiekty.deps.json
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice pliki obiekty\bin\Debug\net8.0\Tablice pliki obiekty.runtimeconfig.json
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice pliki obiekty\bin\Debug\net8.0\Tablice pliki obiekty.dll
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice pliki obiekty\bin\Debug\net8.0\Tablice pliki obiekty.pdb
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice pliki obiekty\obj\Debug\net8.0\Tablice pliki obiekty.dll
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice pliki obiekty\obj\Debug\net8.0\refint\Tablice pliki obiekty.dll
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice pliki obiekty\obj\Debug\net8.0\Tablice pliki obiekty.pdb
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice pliki obiekty\obj\Debug\net8.0\Tablice pliki obiekty.genruntimeconfig.cache
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Tablice pliki obiekty\obj\Debug\net8.0\ref\Tablice pliki obiekty.dll

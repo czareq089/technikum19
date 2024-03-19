@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tablice pliki obiekty", "Tablice pliki obiekty.csproj", "{8CDD3ADF-E8EA-4289-8675-0629A86EBB7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CDD3ADF-E8EA-4289-8675-0629A86EBB7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CDD3ADF-E8EA-4289-8675-0629A86EBB7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CDD3ADF-E8EA-4289-8675-0629A86EBB7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CDD3ADF-E8EA-4289-8675-0629A86EBB7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
