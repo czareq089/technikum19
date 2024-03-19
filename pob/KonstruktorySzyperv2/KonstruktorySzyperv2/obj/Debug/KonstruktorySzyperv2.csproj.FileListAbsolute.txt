@@ -1,0 +1,6 @@
+C:\Users\Jakub\RiderProjects\KonstruktorySzyperv2\KonstruktorySzyperv2\bin\Debug\KonstruktorySzyperv2.exe
+C:\Users\Jakub\RiderProjects\KonstruktorySzyperv2\KonstruktorySzyperv2\bin\Debug\KonstruktorySzyperv2.pdb
+C:\Users\Jakub\RiderProjects\KonstruktorySzyperv2\KonstruktorySzyperv2\obj\Debug\KonstruktorySzyperv2.csproj.AssemblyReference.cache
+C:\Users\Jakub\RiderProjects\KonstruktorySzyperv2\KonstruktorySzyperv2\obj\Debug\KonstruktorySzyperv2.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\RiderProjects\KonstruktorySzyperv2\KonstruktorySzyperv2\obj\Debug\KonstruktorySzyperv2.exe
+C:\Users\Jakub\RiderProjects\KonstruktorySzyperv2\KonstruktorySzyperv2\obj\Debug\KonstruktorySzyperv2.pdb
