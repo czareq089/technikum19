@@ -1,0 +1,6 @@
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Symulator\Symulator\bin\Debug\Symulator.exe
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Symulator\Symulator\bin\Debug\Symulator.pdb
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Symulator\Symulator\obj\Debug\Symulator.csproj.AssemblyReference.cache
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Symulator\Symulator\obj\Debug\Symulator.csproj.CoreCompileInputs.cache
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Symulator\Symulator\obj\Debug\Symulator.exe
+C:\Users\czareq089\Documents\GitHub\technikum19\pob\Symulator\Symulator\obj\Debug\Symulator.pdb
