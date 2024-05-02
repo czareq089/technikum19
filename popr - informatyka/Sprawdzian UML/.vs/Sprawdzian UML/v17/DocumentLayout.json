@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\popr - informatyka\\Sprawdzian UML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFE8195-9E7E-4C1C-BAE8-1CC9A00FD7DA}|Sprawdzian UML.csproj|c:\\users\\czareq089\\documents\\github\\technikum19\\popr - informatyka\\sprawdzian uml\\zadanie 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFE8195-9E7E-4C1C-BAE8-1CC9A00FD7DA}|Sprawdzian UML.csproj|solutionrelative:zadanie 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFE8195-9E7E-4C1C-BAE8-1CC9A00FD7DA}|Sprawdzian UML.csproj|c:\\users\\czareq089\\documents\\github\\technikum19\\popr - informatyka\\sprawdzian uml\\zadanie 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFE8195-9E7E-4C1C-BAE8-1CC9A00FD7DA}|Sprawdzian UML.csproj|solutionrelative:zadanie 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zadanie 2.cs",
+              "DocumentMoniker": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\popr - informatyka\\Sprawdzian UML\\Zadanie 2.cs",
+              "RelativeDocumentMoniker": "Zadanie 2.cs",
+              "ToolTip": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\popr - informatyka\\Sprawdzian UML\\Zadanie 2.cs",
+              "RelativeToolTip": "Zadanie 2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T11:25:44.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zadanie 1.cs",
+              "DocumentMoniker": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\popr - informatyka\\Sprawdzian UML\\Zadanie 1.cs",
+              "RelativeDocumentMoniker": "Zadanie 1.cs",
+              "ToolTip": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\popr - informatyka\\Sprawdzian UML\\Zadanie 1.cs",
+              "RelativeToolTip": "Zadanie 1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:45:56.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

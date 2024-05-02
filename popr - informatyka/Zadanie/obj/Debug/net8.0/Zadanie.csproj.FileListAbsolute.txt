@@ -1,0 +1,15 @@
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Zadanie\bin\Debug\net8.0\Zadanie.exe
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Zadanie\bin\Debug\net8.0\Zadanie.deps.json
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Zadanie\bin\Debug\net8.0\Zadanie.runtimeconfig.json
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Zadanie\bin\Debug\net8.0\Zadanie.dll
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Zadanie\bin\Debug\net8.0\Zadanie.pdb
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Zadanie\obj\Debug\net8.0\Zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Zadanie\obj\Debug\net8.0\Zadanie.AssemblyInfoInputs.cache
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Zadanie\obj\Debug\net8.0\Zadanie.AssemblyInfo.cs
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Zadanie\obj\Debug\net8.0\Zadanie.csproj.CoreCompileInputs.cache
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Zadanie\obj\Debug\net8.0\Zadanie.sourcelink.json
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Zadanie\obj\Debug\net8.0\Zadanie.dll
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Zadanie\obj\Debug\net8.0\refint\Zadanie.dll
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Zadanie\obj\Debug\net8.0\Zadanie.pdb
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Zadanie\obj\Debug\net8.0\Zadanie.genruntimeconfig.cache
+C:\Users\czareq089\Documents\GitHub\technikum19\popr - informatyka\Zadanie\obj\Debug\net8.0\ref\Zadanie.dll
