@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3PRQoX8HZKM8XILQWa1+MU1ktq6DqSDnlSiwxPVG7fxqwjuq9/vAlLrHd+sSVlNTGsW24s+9ALFKtbDTczoNBQ==",
+  "success": true,
+  "projectFilePath": "/home/czareq089/Documents/GitHub/technikum19/klasa 3/Programowanie obiektowe/09.09.24/09.09.24.csproj",
+  "expectedPackageFiles": [
+    "/home/czareq089/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

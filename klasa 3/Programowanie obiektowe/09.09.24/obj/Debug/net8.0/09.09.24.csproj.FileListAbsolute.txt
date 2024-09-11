@@ -1,0 +1,15 @@
+/home/czareq089/Documents/GitHub/technikum19/klasa 3/Programowanie obiektowe/09.09.24/bin/Debug/net8.0/09.09.24
+/home/czareq089/Documents/GitHub/technikum19/klasa 3/Programowanie obiektowe/09.09.24/bin/Debug/net8.0/09.09.24.deps.json
+/home/czareq089/Documents/GitHub/technikum19/klasa 3/Programowanie obiektowe/09.09.24/bin/Debug/net8.0/09.09.24.runtimeconfig.json
+/home/czareq089/Documents/GitHub/technikum19/klasa 3/Programowanie obiektowe/09.09.24/bin/Debug/net8.0/09.09.24.dll
+/home/czareq089/Documents/GitHub/technikum19/klasa 3/Programowanie obiektowe/09.09.24/bin/Debug/net8.0/09.09.24.pdb
+/home/czareq089/Documents/GitHub/technikum19/klasa 3/Programowanie obiektowe/09.09.24/obj/Debug/net8.0/09.09.24.GeneratedMSBuildEditorConfig.editorconfig
+/home/czareq089/Documents/GitHub/technikum19/klasa 3/Programowanie obiektowe/09.09.24/obj/Debug/net8.0/09.09.24.AssemblyInfoInputs.cache
+/home/czareq089/Documents/GitHub/technikum19/klasa 3/Programowanie obiektowe/09.09.24/obj/Debug/net8.0/09.09.24.AssemblyInfo.cs
+/home/czareq089/Documents/GitHub/technikum19/klasa 3/Programowanie obiektowe/09.09.24/obj/Debug/net8.0/09.09.24.csproj.CoreCompileInputs.cache
+/home/czareq089/Documents/GitHub/technikum19/klasa 3/Programowanie obiektowe/09.09.24/obj/Debug/net8.0/09.09.24.sourcelink.json
+/home/czareq089/Documents/GitHub/technikum19/klasa 3/Programowanie obiektowe/09.09.24/obj/Debug/net8.0/09.09.24.dll
+/home/czareq089/Documents/GitHub/technikum19/klasa 3/Programowanie obiektowe/09.09.24/obj/Debug/net8.0/refint/09.09.24.dll
+/home/czareq089/Documents/GitHub/technikum19/klasa 3/Programowanie obiektowe/09.09.24/obj/Debug/net8.0/09.09.24.pdb
+/home/czareq089/Documents/GitHub/technikum19/klasa 3/Programowanie obiektowe/09.09.24/obj/Debug/net8.0/09.09.24.genruntimeconfig.cache
+/home/czareq089/Documents/GitHub/technikum19/klasa 3/Programowanie obiektowe/09.09.24/obj/Debug/net8.0/ref/09.09.24.dll
