@@ -1,0 +1,58 @@
+Badanie podzielności. Dzielniki liczb. Dzielniki pierwsze.
+
+Zadanie 1
+
+Napisz program, który sprawdzi, czy liczba całkowita dodatnia n podana przez użytkownika dzieli się
+przez 2 i wyświetli jeden z komunikatów „Tak”, „Nie”.
+
+Zadanie 2
+Napisz program, który wyświetli dzielniki liczby całkowitej dodatniej n podanej przez użytkownika.
+Specyfikacja:
+Dane:
+n – liczba całkowita dodatnia
+Wyniki:
+Dzielniki liczby n
+Pseudokod (wersja 1):
+
+Pseudokod (wersja 2 – wyświetlanie dzielników parami ze sprawdzaniem do pierwiastka z n):
+
+Zadanie 3
+Napisz program, który wyświetli sumę dzielników liczby całkowitej dodatniej n podanej przez
+użytkownika.
+Zadanie 4
+Napisz program, który wyświetli ile dzielników ma liczba całkowita dodatnia n podana przez
+użytkownika.
+Zadanie 5
+Napisz program, który wyświetli dzielniki pierwsze liczby całkowitej dodatniej n podanej przez
+użytkownika.
+Wskazówka:
+
+Dzielnik pierwszy to taki dzielnik, który jest liczbą pierwszą.
+Zadanie 6
+Napisz program, który sprawdzi, czy liczby całkowite dodatnie a i b podane przez użytkownika są
+liczbami bliźniaczymi. Liczby całkowite dodatnie są liczbami bliźniaczymi, jeżeli są liczbami
+pierwszymi i ich różnica wynosi 2, np. liczby 5 i 7 oraz 11 i 13 są liczbami bliźniaczymi, a 7 i 9 nie są
+bliźniacze, bo 9 nie jest liczbą pierwszą.
+Zadanie 7
+Napisz program, który sprawdzi, czy liczba całkowita dodatnia n podana przez użytkownika jest liczbą
+doskonałą. Liczba doskonała, to taka, która jest równa sumie swoich dzielników właściwych (czyli
+mniejszych od tej liczby). Program wyświetli jeden z komunikatów „tak” lub „nie”. Przykładowe liczby
+doskonałe:
+6 = 1+2+3
+28 = 1+2+4+7+14
+Zadanie 8
+Napisz program, który sprawdzi, czy liczby całkowite dodatnie a i b podane przez użytkownika są
+liczbami zaprzyjaźnionymi. Liczby całkowite dodatnie a i b są liczbami zaprzyjaźnionymi, jeżeli są
+różne oraz suma dzielników właściwych liczby a jest równa liczbie b oraz suma dzielników właściwych
+liczby b jest równa liczbie a. Program wyświetli jeden z komunikatów „tak” lub „nie”. Przykłady liczb
+zaprzyjaźnionych:
+Dzielniki liczby 284: 1, 2, 4, 71, 142
+Dzielniki liczby 220: 1, 2, 4, 5, 10, 11, 20, 22, 44, 55, 110
+220 = 1 + 2 + 4 + 71 + 142
+284 = 1 + 2 + 4 + 5 + 10 + 11 + 20 + 22 + 44 + 55 + 110
+Kolejna para liczb zaprzyjaźnionych: 1184 i 1210
+Zadanie 9
+Napisz program, który wyświetli w osobnych wierszach wszystkie pary liczb bliźniaczych mniejszych
+od 1000.
+Zadanie 10
+Napisz program, który wyświetli w osobnych wierszach wszystkie liczby doskonałe mniejsze od 1000.
