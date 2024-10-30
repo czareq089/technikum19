@@ -1,0 +1,48 @@
+def sito(n):
+    czy_pierwsza = [True] * (n + 1)
+    czy_pierwsza[0] = False
+    czy_pierwsza[1] = False
+
+    p = 2
+    while p * p <= n:
+        if czy_pierwsza[p]:
+            for i in range(p * p, n + 1, p):
+                czy_pierwsza[i] = False
+        p += 1
+
+    return czy_pierwsza
+
+def bs(T, a, n):
+    left = 0
+    right = n - 1
+    while left < right:
+        center = (left + right) // 2
+        if T[center] < a:
+            left = center + 1
+        else:
+            right = center
+    return T[left] == a
+
+def bs_reku(T, a, left, right):
+    if left > right:
+        return False
+    center = (left + right) // 2
+    if T[center] == a:
+        return True
+    elif T[center] < a:
+        return bs_reku(T, a, center + 1, right)
+    else:
+        return bs_reku(T, a, left, center - 1)
+
+def znajdz_w_ciagu(file_path):
+    with open(file_path, 'r') as file:
+        target = int(file.readline().strip())
+        results = []
+        for line in file:
+            sequence = sorted(map(int, line.split()))
+            if bs_reku(sequence, target, 0, len(sequence) - 1):
+                results.append(line.strip())
+    print(f"Ciągi zawierające liczbę {target}:")
+    for result in results:
+        print(result)
+znajdz_w_ciagu("ciągi.txt")
