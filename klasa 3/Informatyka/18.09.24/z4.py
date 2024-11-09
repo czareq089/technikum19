@@ -1,5 +1,4 @@
 from math import sqrt
-from operator import index
 
 plik = open("liczby2.txt", "r")
 liczby = list(map(int, plik.read().split()))
@@ -21,9 +20,5 @@ def suma_dzielnikow(n):
             T.append(i)
     return sum(T)
 
-K = []
 for i in liczby:
-    K.append(suma_dzielnikow(i))
-
-
-
+    print(i, suma_dzielnikow(i))

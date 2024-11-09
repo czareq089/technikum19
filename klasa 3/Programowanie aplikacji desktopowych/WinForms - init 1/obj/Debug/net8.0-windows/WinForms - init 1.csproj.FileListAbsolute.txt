@@ -1,0 +1,17 @@
+C:\Users\czareq089\Documents\GitHub\technikum19\klasa 3\Programowanie aplikacji desktopowych\WinForms - init 1\bin\Debug\net8.0-windows\WinForms - init 1.exe
+C:\Users\czareq089\Documents\GitHub\technikum19\klasa 3\Programowanie aplikacji desktopowych\WinForms - init 1\bin\Debug\net8.0-windows\WinForms - init 1.deps.json
+C:\Users\czareq089\Documents\GitHub\technikum19\klasa 3\Programowanie aplikacji desktopowych\WinForms - init 1\bin\Debug\net8.0-windows\WinForms - init 1.runtimeconfig.json
+C:\Users\czareq089\Documents\GitHub\technikum19\klasa 3\Programowanie aplikacji desktopowych\WinForms - init 1\bin\Debug\net8.0-windows\WinForms - init 1.dll
+C:\Users\czareq089\Documents\GitHub\technikum19\klasa 3\Programowanie aplikacji desktopowych\WinForms - init 1\bin\Debug\net8.0-windows\WinForms - init 1.pdb
+C:\Users\czareq089\Documents\GitHub\technikum19\klasa 3\Programowanie aplikacji desktopowych\WinForms - init 1\obj\Debug\net8.0-windows\WinForms___init_1.Form1.resources
+C:\Users\czareq089\Documents\GitHub\technikum19\klasa 3\Programowanie aplikacji desktopowych\WinForms - init 1\obj\Debug\net8.0-windows\WinForms - init 1.csproj.GenerateResource.cache
+C:\Users\czareq089\Documents\GitHub\technikum19\klasa 3\Programowanie aplikacji desktopowych\WinForms - init 1\obj\Debug\net8.0-windows\WinForms - init 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czareq089\Documents\GitHub\technikum19\klasa 3\Programowanie aplikacji desktopowych\WinForms - init 1\obj\Debug\net8.0-windows\WinForms - init 1.AssemblyInfoInputs.cache
+C:\Users\czareq089\Documents\GitHub\technikum19\klasa 3\Programowanie aplikacji desktopowych\WinForms - init 1\obj\Debug\net8.0-windows\WinForms - init 1.AssemblyInfo.cs
+C:\Users\czareq089\Documents\GitHub\technikum19\klasa 3\Programowanie aplikacji desktopowych\WinForms - init 1\obj\Debug\net8.0-windows\WinForms - init 1.csproj.CoreCompileInputs.cache
+C:\Users\czareq089\Documents\GitHub\technikum19\klasa 3\Programowanie aplikacji desktopowych\WinForms - init 1\obj\Debug\net8.0-windows\WinForms - init 1.sourcelink.json
+C:\Users\czareq089\Documents\GitHub\technikum19\klasa 3\Programowanie aplikacji desktopowych\WinForms - init 1\obj\Debug\net8.0-windows\WinForms - init 1.dll
+C:\Users\czareq089\Documents\GitHub\technikum19\klasa 3\Programowanie aplikacji desktopowych\WinForms - init 1\obj\Debug\net8.0-windows\refint\WinForms - init 1.dll
+C:\Users\czareq089\Documents\GitHub\technikum19\klasa 3\Programowanie aplikacji desktopowych\WinForms - init 1\obj\Debug\net8.0-windows\WinForms - init 1.pdb
+C:\Users\czareq089\Documents\GitHub\technikum19\klasa 3\Programowanie aplikacji desktopowych\WinForms - init 1\obj\Debug\net8.0-windows\WinForms - init 1.genruntimeconfig.cache
+C:\Users\czareq089\Documents\GitHub\technikum19\klasa 3\Programowanie aplikacji desktopowych\WinForms - init 1\obj\Debug\net8.0-windows\ref\WinForms - init 1.dll

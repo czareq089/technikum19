@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <select id="colors">
+    <option value="red">Red</option>
+    <option value="yellow">Yellow</option>
+    <option value="green">Green</option>
+    <option value="blue">Blue</option>
+  </select>
+  <select id="shapes">
+    <option value="square">square</option>
+    <option value="circle">circle</option>
+    <option value="triangle">triangle</option>
+  </select>
+  
+  <svg width="100" height="100">
+    <circle id="circ" cx="50" cy="50" r="40" fill="white"/>
+  </svg>
+  
+  <script>
+    const circ = document.getElementById('circ');
+    const col_array = ["red", "yellow", "green", "blue"];
+    const shape_array = ["sqare", "circle", "triangle"];
+    
+    document.getElementById('colors').addEventListener('change', function() {
+      const current_color = this.value;
+
+      for (let i = 0; i < col_array.length; i++) {
+        const element = col_array[i];
+        if (element === current_color) {
+          circ.style.fill = element;
+          break;
+        }
+      }
+    });
+
+    document.getElementById('shapes').addEventListener('change', function() {
+      const current_shape = this.value;
+      for (let i = 0; i < col_array.length; i++) {
+        const element = col_array[i];
+        if (element === current_shape) {
+          circ.style.shapeg = element;
+          break; 
+        }
+      }
+    });
+
+  </script>
+  
+</body>
+</html>

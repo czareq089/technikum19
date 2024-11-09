@@ -1,0 +1,25 @@
+Temat zadania: System Zarządzania Biblioteką
+Opis zadania:
+Stwórz aplikację konsolową w języku C#, która będzie symulować system zarządzania biblioteką. Aplikacja powinna umożliwiać zarządzanie książkami, autorami oraz wypożyczeniami. W projekcie należy wykorzystać dziedziczenie, konstruktory oraz kompozycję.
+Wymagania funkcjonalne:
+1.	Klasa Person:
+o	Pola: FirstName, LastName.
+o	Konstruktor: inicjalizujący pola FirstName i LastName.
+2.	Klasa Author (dziedziczy po klasie Person):
+o	Pola: BooksList (lista książek napisanych przez autora).
+o	Konstruktor: inicjalizujący pola FirstName, LastName oraz pustą listę książek.
+o	Metoda: AddBook(Book book) - dodaje książkę do listy książek autora.
+3.	Klasa Book:
+o	Pola: Title, Author (obiekt klasy Author), PublicationYear.
+o	Konstruktor: inicjalizujący pola Title, Author, PublicationYear.
+4.	Klasa Reader (dziedziczy po klasie Person):
+o	Pola: BorrowedBooksList (lista wypożyczonych książek).
+o	Konstruktor: inicjalizujący pola FirstName, LastName oraz pustą listę wypożyczeń.
+o	Metoda: BorrowBook(Book book) - dodaje książkę do listy wypożyczeń.
+5.	Klasa Library:
+o	Pola: BooksList (lista wszystkich książek w bibliotece), ReadersList (lista czytelników).
+o	Konstruktor: inicjalizujący pustą listę książek i czytelników.
+o	Metody:
+	AddBook(Book book) - dodaje książkę do listy książek.
+	AddReader(Reader reader) - dodaje czytelnika do listy czytelników.
+	BorrowBook(Reader reader, Book book) - umożliwia wypożyczenie książki przez czytelnika.
