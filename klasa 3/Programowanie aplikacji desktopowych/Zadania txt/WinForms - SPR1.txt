@@ -1,0 +1,7 @@
+Napisz aplikację, która w 2 pola pozwala wpisać dwie liczby. Potem sprawdza czy te liczby są dwucyforowe. Jeśli nie są wpisuje komunikat w labelu poniżej, że liczby mają być dwucyfrowe.
+Następnie oblicza sumę bułgarską* tych liczb. 
+Jeśli jest ona liczbą pierwszą to po kliknięciu w button w wyskakującym MsgBox wyświetla komunikat "Sukces", a jeśli nie to "Porażka"
+
+Suma bułgarska dwóch liczb to suma sumy ich cyfr.
+
+Oddajemy pliki źródłowe Form1.cs i Form1.Designer.cs oraz załączamy działającą aplikację .exe (o ile będzie można)

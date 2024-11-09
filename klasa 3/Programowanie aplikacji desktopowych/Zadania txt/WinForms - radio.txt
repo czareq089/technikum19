@@ -1,0 +1,13 @@
+Napisz pogram, który sortuje losowe liczby dwucyfrowe.
+Na początku user podaje ile liczb program ma mu wylosować. Forma przekazania tego systemowi jest dowolna po czym klika przycisk LOSUJ. Po kliknięciu w niego staje się on nieaktywny i liczby pojawiają się w labelu.
+Potem uaktywnia się radio strefa 3 rodzajów sortowania:
+- bąbelkowe
+- quicksort hoare 
+- quicksort lomuto
+
+Po wybraniu jednej z opcji i klkiknięciu SORTUJ liczby stają się posortowane rosnąco a przycisk losuj staje się znów aktywny.
+
+Do wglądu oddajecie:
+- plik Form1.cs
+- plik Form1.DSesigner.cs
+- plik Sortowanie.class z 3 metodami sortującymi.

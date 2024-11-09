@@ -1,0 +1,10 @@
+Stwórz za pomocą WinForms kilka aplikacji wg opisu:
+
+1. Apka z buttonem, który kliknięty zamyka aplikację
+2. Apka z textboxem i buttonem. Jeśli w textbox się wpisze bay to kliknięcie buttona zamknie aplikację
+3. Apka z buttonem, który kliknięty pokazuje komunikat z bieżącą datą i po chwili drugi komunikat z bieżącą godziną.
+4. Apka z dwoma textboxami do wpisania dwóch liczb. Po kliknięciu w button na labelu poniżej ma się wyświetlić NWD i NWW liczb z textboxów. Nie rób walidacji, załóż, że user wpisał sensowne liczby.
+
+Proszę wkleić zawartość plików. Jeśli piszecie to w kilku projektach to chcę kilka takich par cs i designer.
+Form1.cs
+Form1.Designer.cs
