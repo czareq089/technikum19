@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  flex-direction: column;
+}
+.wymiar{
+  color: yellow;
+  font-style: italic;
+}
+.wyniki{
+  color: red; 
+}
+body{
+  background-color: #97bff7;
+}
+
+table {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 80%;
+}
+
+td, th {
+  border: 1px solid #423280;
+  padding: 10px;
+}
+th{
+  color: purple;
+}
+
+td{
+  color: red;
+}
+
+tr:nth-child(even){
+  background-color: #373a6f;
+}
+
+tr:nth-child(odd){
+  background-color: #4248bc;
+}
