@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WpfApp2
+namespace Sklep
 {
     internal interface IZniżkaStrategia
     {
-        int obliczZniżke(int kwota, int x);
+        int obliczZniżkę(int k, int x);
     }
 }

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WpfApp2
+namespace Sklep
 {
     internal class Produkt
     {

@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WpfApp2
+namespace Sklep
 {
     internal class ZniżkaKwotowa : IZniżkaStrategia
     {
-        public int obliczZniżke(int kwota, int x)
+        public int obliczZniżkę(int k, int x)
         {
-            return kwota - x;
+            return k - x;
         }
     }
 }

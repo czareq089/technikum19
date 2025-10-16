@@ -1,27 +1,30 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace WpfApp2
+﻿
+namespace Sklep
 {
     internal class Koszyk
     {
-        public List<Produkt> Produkty;
+        public List<Produkt> Produkty = new();
+        public IZniżkaStrategia ZniżkaStrategia;
 
-        public IZniżkaStrategia Strategia;
         public Koszyk()
         {
-            GenerujPróbki();
+            generujPróbki();
         }
-        private void GenerujPróbki()
+        
+       
+
+        private void generujPróbki()
         {
             Produkty.Add(new ProduktFizyczny("Komputer", 400));
             Produkty.Add(new ProduktFizyczny("Zinger", 25));
         }
 
-        public int ObliczWartoscKoszyka()
+        public void DodajProdukt(string nazwa, int cena)
+        {
+            Produkty.Add(new ProduktFizyczny(nazwa, cena));
+        }
+
+        public int obliczWartośćKoszyka()
         {
             int w = 0;
             foreach (var item in Produkty)
@@ -31,12 +34,13 @@ namespace WpfApp2
             return w;
         }
 
-        public int ObliczWartoscKoszykaPoRabacie(IZniżkaStrategia strategia, int x)
+        public int obliczWartośćKoszykaPoRabacie(IZniżkaStrategia zniżkaStrategia, int x)
         {
-            Strategia = strategia;
-            int w = ObliczWartoscKoszyka();
-            return Strategia.obliczZniżke(w, x);
-            
+            this.ZniżkaStrategia = zniżkaStrategia;
+            int w = obliczWartośćKoszyka();
+            return ZniżkaStrategia.obliczZniżkę(w, x);
         }
+
+
     }
 }

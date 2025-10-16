@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WpfApp2
+namespace Sklep
 {
     internal class ZniżkaProcentowa : IZniżkaStrategia
     {
-        public int obliczZniżke(int kwota, int x)
+        public int obliczZniżkę(int k, int x)
         {
-            return (kwota * (100 - x)) / 100;
+            return (k * (100 - x)) / 100;
         }
     }
 }
