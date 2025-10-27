@@ -1,0 +1,18 @@
+
+Napisz program WinForms
+
+Okno ma się składać z formularza do wpisania 2 liczb naturalnych i przycisku.
+Program sprawdzi, czy te liczby są zaprzyjaźnione* i w labelu poniżej wyświtli napis z tymi liczbami i napisem TAK lub NIE.
+
+* liczby zaprzyjaźnione - para różnych liczb naturalnych, takich że suma dzielników właściwych (mniejszych od tej liczby) każdej z tych liczb równa się drugiej liczbie
+
+Pierwszą parą takich liczb jest 220 i 284, ponieważ:
+
+220 = 1 + 2 + 4 + 71 + 142 (dzielniki 284),
+284 = 1 + 2 + 4 + 5 + 10 + 11 + 20 + 22 + 44 + 55 + 110 (dzielniki 220).
+
+Oddajemy:
+- screen z działania aplikacji po wpisaniu 2 liczb i klinięciu buttona.
+- kod źródłowy cs i Designer.cs
+- Kod klasy z metodą / metodami zajmującymi się częścią algorytmiczną zadania.
+Całość zapisujemy w folderze o nazwie pliku z zadaniem, a same pliki nazwy dowolne / domyślne.
