@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zlslK4NCzSg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\Restaurant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\czareq089\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.9\\microsoft.dotnet.ilcompiler.9.0.9.nupkg.sha512",
+    "C:\\Users\\czareq089\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.9\\microsoft.net.illink.tasks.9.0.9.nupkg.sha512",
+    "C:\\Users\\czareq089\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.9\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
