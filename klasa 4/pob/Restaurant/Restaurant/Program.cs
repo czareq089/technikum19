@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             List<Reservation> reservations = new List<Reservation>();
-            int count = 0;
+            int count = 1;
             bool running = true;
             Logger logger = Logger.GetInstance();  
             FileHandler fileHandler = new FileHandler();
@@ -40,9 +40,16 @@
                         Console.Write("Podaj dane rezerwującego: ");
                         string nameTable = Console.ReadLine();
 
-                        Console.Write("Podaj datę (yyyy-MM-dd): ");
-                        DateTime dateTable = DateTime.Parse(Console.ReadLine());
-
+                        Console.Write("Podaj datę (yyyy-MM-dd domyślnie na jutro): ");
+                        string data = Console.ReadLine();
+                        if (DateTime.TryParse(data, out DateTime dateTable))
+                        {
+                            dateTable = DateTime.Parse(data);
+                        }
+                        else
+                        {
+                            dateTable = DateTime.Now.AddDays(1);
+                        }
                         Reservation reservationTable = ReservationFactory.Create(1);
 
                         reservationTable = new ReservationBuilder(reservationTable)
@@ -62,8 +69,16 @@
                         Console.Write("Podaj dane rezerwującego: ");
                         string nameWhole = Console.ReadLine();
 
-                        Console.Write("Podaj datę (yyyy-MM-dd): ");
-                        DateTime dateWhole = DateTime.Parse(Console.ReadLine());
+                        Console.Write("Podaj datę (yyyy-MM-dd domyślnie na jutro): ");
+                        string data2 = Console.ReadLine();
+                        if (DateTime.TryParse(data2, out DateTime dateWhole))
+                        {
+                            dateWhole = DateTime.Parse(data2);
+                        }
+                        else
+                        {
+                            dateWhole = DateTime.Now.AddDays(1);
+                        }
 
                         Reservation reservationWhole = ReservationFactory.Create(2);
 
