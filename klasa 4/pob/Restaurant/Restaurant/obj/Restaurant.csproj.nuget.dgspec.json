@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\Restaurant.csproj": {}
+    "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\Restaurant.csproj": {}
   },
   "projects": {
-    "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\Restaurant.csproj": {
+    "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\Restaurant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\Restaurant.csproj",
+        "projectUniqueName": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\Restaurant.csproj",
         "projectName": "Restaurant",
-        "projectPath": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\Restaurant.csproj",
+        "projectPath": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\Restaurant.csproj",
         "packagesPath": "C:\\Users\\czareq089\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\obj\\",
+        "outputPath": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\czareq089\\AppData\\Roaming\\NuGet\\NuGet.Config",

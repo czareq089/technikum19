@@ -1,46 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\",
+  "WorkspaceRootPath": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|c:\\users\\czareq089\\source\\repos\\restaurant\\restaurant\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|c:\\users\\czareq089\\source\\repos\\restaurant\\restaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|c:\\users\\czareq089\\source\\repos\\restaurant\\restaurant\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|c:\\users\\czareq089\\source\\repos\\restaurant\\restaurant\\uihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|c:\\users\\czareq089\\documents\\github\\technikum19\\klasa 4\\pob\\restaurant\\restaurant\\uihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\uihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|c:\\users\\czareq089\\source\\repos\\restaurant\\restaurant\\stringoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|c:\\users\\czareq089\\documents\\github\\technikum19\\klasa 4\\pob\\restaurant\\restaurant\\stringoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\stringoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|c:\\users\\czareq089\\source\\repos\\restaurant\\restaurant\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|c:\\users\\czareq089\\documents\\github\\technikum19\\klasa 4\\pob\\restaurant\\restaurant\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|c:\\users\\czareq089\\source\\repos\\restaurant\\restaurant\\reservationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\reservationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|c:\\users\\czareq089\\documents\\github\\technikum19\\klasa 4\\pob\\restaurant\\restaurant\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|c:\\users\\czareq089\\source\\repos\\restaurant\\restaurant\\tablereservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\tablereservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|c:\\users\\czareq089\\source\\repos\\restaurant\\restaurant\\wholereservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|c:\\users\\czareq089\\documents\\github\\technikum19\\klasa 4\\pob\\restaurant\\restaurant\\wholereservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\wholereservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|c:\\users\\czareq089\\source\\repos\\restaurant\\restaurant\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|c:\\users\\czareq089\\documents\\github\\technikum19\\klasa 4\\pob\\restaurant\\restaurant\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|c:\\users\\czareq089\\documents\\github\\technikum19\\klasa 4\\pob\\restaurant\\restaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|c:\\users\\czareq089\\documents\\github\\technikum19\\klasa 4\\pob\\restaurant\\restaurant\\reservationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\reservationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|c:\\users\\czareq089\\documents\\github\\technikum19\\klasa 4\\pob\\restaurant\\restaurant\\tablereservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\tablereservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|c:\\users\\czareq089\\documents\\github\\technikum19\\klasa 4\\pob\\restaurant\\restaurant\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D582C347-644D-4FE7-AA28-DF75E3648A65}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,137 +50,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Logger.cs",
-              "DocumentMoniker": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\Logger.cs",
+              "DocumentMoniker": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\Logger.cs",
               "RelativeDocumentMoniker": "Restaurant\\Logger.cs",
-              "ToolTip": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\Logger.cs",
+              "ToolTip": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\Logger.cs",
               "RelativeToolTip": "Restaurant\\Logger.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T00:15:35.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T00:15:35.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TableReservation.cs",
+              "DocumentMoniker": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\TableReservation.cs",
+              "RelativeDocumentMoniker": "Restaurant\\TableReservation.cs",
+              "ToolTip": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\TableReservation.cs",
+              "RelativeToolTip": "Restaurant\\TableReservation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T23:29:45.888Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "TableReservation.cs",
-              "DocumentMoniker": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\TableReservation.cs",
-              "RelativeDocumentMoniker": "Restaurant\\TableReservation.cs",
-              "ToolTip": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\TableReservation.cs",
-              "RelativeToolTip": "Restaurant\\TableReservation.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Title": "ReservationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\ReservationFactory.cs",
+              "RelativeDocumentMoniker": "Restaurant\\ReservationFactory.cs",
+              "ToolTip": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\ReservationFactory.cs",
+              "RelativeToolTip": "Restaurant\\ReservationFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T23:29:45.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T18:56:34.993Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ReservationFactory.cs",
-              "DocumentMoniker": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\ReservationFactory.cs",
-              "RelativeDocumentMoniker": "Restaurant\\ReservationFactory.cs",
-              "ToolTip": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\ReservationFactory.cs",
-              "RelativeToolTip": "Restaurant\\ReservationFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T18:56:34.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\Program.cs",
               "RelativeDocumentMoniker": "Restaurant\\Program.cs",
-              "ToolTip": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\Program.cs",
+              "ToolTip": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\Program.cs",
               "RelativeToolTip": "Restaurant\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAQwAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T18:33:50.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T18:33:50.468Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "FileHandler.cs",
-              "DocumentMoniker": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\FileHandler.cs",
+              "DocumentMoniker": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\FileHandler.cs",
               "RelativeDocumentMoniker": "Restaurant\\FileHandler.cs",
-              "ToolTip": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\FileHandler.cs",
+              "ToolTip": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\FileHandler.cs",
               "RelativeToolTip": "Restaurant\\FileHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T23:17:31.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T23:17:31.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "WholeReservation.cs",
-              "DocumentMoniker": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\WholeReservation.cs",
+              "DocumentMoniker": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\WholeReservation.cs",
               "RelativeDocumentMoniker": "Restaurant\\WholeReservation.cs",
-              "ToolTip": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\WholeReservation.cs",
+              "ToolTip": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\WholeReservation.cs",
               "RelativeToolTip": "Restaurant\\WholeReservation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T23:42:56.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T23:42:56.663Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "IReservationService.cs",
-              "DocumentMoniker": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\IReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\IReservationService.cs",
               "RelativeDocumentMoniker": "Restaurant\\IReservationService.cs",
-              "ToolTip": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\IReservationService.cs",
+              "ToolTip": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\IReservationService.cs",
               "RelativeToolTip": "Restaurant\\IReservationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T18:56:03.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T18:56:03.547Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Reservation.cs",
-              "DocumentMoniker": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\Reservation.cs",
               "RelativeDocumentMoniker": "Restaurant\\Reservation.cs",
-              "ToolTip": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\Reservation.cs",
+              "ToolTip": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\Reservation.cs",
               "RelativeToolTip": "Restaurant\\Reservation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T18:55:45.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T18:55:45.051Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "UIHandler.cs",
-              "DocumentMoniker": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\UIHandler.cs",
+              "DocumentMoniker": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\UIHandler.cs",
               "RelativeDocumentMoniker": "Restaurant\\UIHandler.cs",
-              "ToolTip": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\UIHandler.cs",
+              "ToolTip": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\UIHandler.cs",
               "RelativeToolTip": "Restaurant\\UIHandler.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAwwEgAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T18:54:59.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "StringOperations.cs",
-              "DocumentMoniker": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\StringOperations.cs",
+              "DocumentMoniker": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\StringOperations.cs",
               "RelativeDocumentMoniker": "Restaurant\\StringOperations.cs",
-              "ToolTip": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\StringOperations.cs",
+              "ToolTip": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\StringOperations.cs",
               "RelativeToolTip": "Restaurant\\StringOperations.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T23:01:13.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T23:01:13.826Z"
             }
           ]
         }

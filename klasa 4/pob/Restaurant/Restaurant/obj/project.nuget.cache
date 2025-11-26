@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zlslK4NCzSg=",
+  "dgSpecHash": "yGg8WRyQ9rU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\czareq089\\source\\repos\\Restaurant\\Restaurant\\Restaurant.csproj",
+  "projectFilePath": "C:\\Users\\czareq089\\Documents\\GitHub\\technikum19\\klasa 4\\pob\\Restaurant\\Restaurant\\Restaurant.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\czareq089\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.9\\microsoft.dotnet.ilcompiler.9.0.9.nupkg.sha512",
     "C:\\Users\\czareq089\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.9\\microsoft.net.illink.tasks.9.0.9.nupkg.sha512",

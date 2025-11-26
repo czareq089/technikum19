@@ -1,0 +1,10 @@
+
+ [17:28] Aplikacja uruchomiona.
+
+ [17:28] Dodano nową rezerwację stolika.
+
+ [17:28] Utworzono nową rezerwację.
+
+ [17:28] Dodano nową rezerwację sali.
+
+ [17:28] Utworzono nową rezerwację.
